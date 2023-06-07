@@ -1,5 +1,5 @@
 ## Talemaker Frontend
 
-Run the project
+### Run the project
 
 npm start               
